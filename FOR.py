@@ -1,6 +1,7 @@
 #codigo que genere la tabla de multiplicar de un numero
 
 print("Taller 21 de febrero")
+print("Hola mundo")
 
 a= int(input("Escriba un Numero -> "))
 for c in range(1,11):
