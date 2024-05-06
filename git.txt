@@ -7,6 +7,7 @@ $git commit -m ""
 $git branch -M main
 $git remote add origin "direccion del repositorio"
 $git push -u origin main
+
 Como HACER COMMITS en git hub
 $git init 	 para inicializar 
 $git status	 para consultar que se encuentra dentro de la carpte
