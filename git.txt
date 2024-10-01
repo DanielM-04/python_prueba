@@ -26,9 +26,9 @@ $ git rm nom_archivo
 
 
 Esto debe aparecer en la rama
-y proximamente en el main
-HOLAAAA MAINNNN!!!!!
-hola
+Estoy realizando otra vez la prueba de unir ramas
+este es el mensaje 2.0 que va a parecer
+hola main yea
 
 
 
