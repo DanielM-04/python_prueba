@@ -24,6 +24,9 @@ para ELIMINAR ARCHIVO:
 $ git rm nom_archivo
 
 
+
+Esto debe aparecer en la rama
+
 hola
 
 
