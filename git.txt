@@ -18,9 +18,15 @@ $git push -u origin main 	paso final para que se agregue
 
 /////////////
 git ls-files  para ver los archivos que existen
-$ git checkout -b crear_rama_1 para crear 	ramas
+$ git checkout -b crear_rama_1 o $ git branch nomrama   para crear una nueva rama
+
 para ELIMINAR ARCHIVO:
 $ git rm nom_archivo
+
+
+hola
+
+
 
 
 
