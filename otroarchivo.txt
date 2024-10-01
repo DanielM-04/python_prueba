@@ -1,0 +1,41 @@
+
+Como crear repositiorios
+$git init
+$git status
+$git add
+$git commit -m ""
+$git branch -M main
+$git remote add origin "direccion del repositorio"
+$git push -u origin main
+
+Como HACER COMMITS en git hub
+$git init 	 para inicializar 
+$git status	 para consultar que se encuentra dentro de la carpte
+$add nom.archivo/ . (todo) para agregar los archivos
+$git commit -m "" 	para hacer el comentario
+$git push -u origin main 	paso final para que se agregue
+
+
+/////////////
+git ls-files  para ver los archivos que existen
+$ git checkout -b crear_rama_1 o $ git branch nomrama   para crear una nueva rama
+
+para ELIMINAR ARCHIVO:
+$ git rm nom_archivo
+
+
+
+Esto debe aparecer en la rama
+y proximamente en el main
+HOLAAAA MAINNNN!!!!!
+hola
+
+
+
+
+
+
+
+
+
+
