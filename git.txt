@@ -26,7 +26,8 @@ $ git rm nom_archivo
 
 
 Esto debe aparecer en la rama
-
+y proximamente en el main
+HOLAAAA MAINNNN!!!!!
 hola
 
 
